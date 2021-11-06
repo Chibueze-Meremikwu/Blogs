@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Blog 6"
+date:   2021-10-29 16:10:31 -0700
+categories: jekyll update
+---
+
+This past week I've learned more about the Ethernet, fiber optics cables, swtich and routers and how they're different from each other, That came along with learning the how packets travel between them. The network is so enormous!!! All these are great lessons i've learned from NetworkChuck on youtube. https://youtu.be/E3DEJ7odWq0

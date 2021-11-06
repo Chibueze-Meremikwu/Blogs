@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Blog 7"
+date:   2021-11-4 16:10:31 -0700
+categories: jekyll update
+---
+
+I  learned about fiber optic wires and how they produce great enormous speed oppose to ethernet cables. These fiber optics shoot lights that produce 1 and 0's through a glass or plastic tube to give us communications. These fiber optics is what connects countries to countries over the oceans. They can span over more than 100m unlike ethernet cables, they no atenuation, no emi. They can be expensive but affordable. I learned about this in IS435 by sherbaf. Also they're is a networkchuck that gave a great illustration https://youtu.be/E3DEJ7odWq0
