@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Blog 9"
+date:   2021-11-9 16:10:31 -0700
+categories: jekyll update
+---
+
+I learned CIT 160 with zartosky from CSUN which introduced me into linux entirely, I was amazed by it and found my self bored of looking into the terminal all the time. So I looked deeper into Linux and cam accros distros that had different operation packages more suitable for me. Im currently using ubuntu on docker and on oracle virtual machine. 
