@@ -4,6 +4,7 @@ title:  "Blog 0"
 date:   2021-09-23 16:10:31 -0700
 categories: jekyll update
 image: /assets/images/ScreenShot1.png
+image: /assets/images/ScreenShot2.png
 ---
 I learned about Git version control system and how its used to maintain vast majority of code without disruption between group members who are controlling it. 
 
