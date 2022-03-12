@@ -9,8 +9,4 @@ image: /assets/images/ScreenShot1.png
 I learned about LINUX distro's and primarly terminal on macs. The command line is my best for operations due to its open source capabilty opposed to microsoft capability. The command line is more of better use for me. The major point of this blog was to point out that I was able to configure my local terminal to Github specificaions.
 
 
-<<<<<<< HEAD
 ![]({{ page.image | relative_url }})
-=======
-![]({{ page.image | relative_url }})
->>>>>>> 9d854ca920e32ebd6bb7e9fc7a0cc5d2c4be1773
