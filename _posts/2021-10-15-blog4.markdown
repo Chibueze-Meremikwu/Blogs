@@ -8,3 +8,5 @@ image: /assets/images/currenbay.png
 
 
 I recently came over program called wordpress which is website developer thats a GUI and user friendly. I used the software to devlope a website for my company currenbay because before coming across this website... I was thinking of how i was going to pay for a website devloper to build one. Thankfully technology has come so far where complex tools are provided very user-friendly to the mass.
+
+![]({{ page.image | relative_url }})
