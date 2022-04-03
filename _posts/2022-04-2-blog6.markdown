@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blog 2"
+date:   2021-09-29 16:10:31 -0700
+categories: jekyll update
+image: /assets/images/ScreenShot4.png
+---
+
+I learned about ERP softwares (Enterprise resource planning) which is a system that I always thought of but never knew existed. This is a software that has the capabilities of running your business or company from your computer. It has features such has handling your finance, distribution, human resource and so on. For example, I created a customer maintenance file shown below.
+
+
+![]({{ page.image | relative_url }})
