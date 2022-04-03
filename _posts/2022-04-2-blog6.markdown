@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blog 2"
-date:   2021-09-29 16:10:31 -0700
+title:  "Blog 6"
+date:   2022-04-2 16:10:31 -0700
 categories: jekyll update
 image: /assets/images/ScreenShot4.png
 ---
