@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Blog 7"
+date:   2021-11-4 16:10:31 -0700
+categories: jekyll update
+image: /assets/images/Screenshot5.png
+---
+
+Previously on this blog collection of mine, I talked about git configurations I added to my terminal but also I was able to configure my whole bashrc file. The specfications come from dotfiles.github.io where inspirations are placed for users to emulate repo's from the top personalized stars on github.
+
+
+
+
+![]({{ page.image | relative_url }})
