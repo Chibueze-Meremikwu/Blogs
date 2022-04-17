@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Blog 8"
+date:   2021-11-9 16:10:31 -0700
+categories: jekyll update
+image: /assets/images/ScreenShot6.png
+---
+
+I created a Guess Number script in terminal that allows the user to guess a number from 1-16
+
+![]({{ page.image | relative_url }})
