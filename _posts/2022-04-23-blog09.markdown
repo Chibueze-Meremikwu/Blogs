@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Blog 9"
+date:   2022-04-23 16:10:31 -0700
+categories: jekyll update
+image: /assets/images/Screenshot7.png
+---
+
+I wrote a bash script called Winning Lottery where user inputs numbers to see if they are winning lottery numbers! check it out!
+
+![]({{ page.image | relative_url }})

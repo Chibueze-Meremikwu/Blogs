@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Blog 10"
-date:   2021-11-9 16:10:31 -0700
-categories: jekyll update
----
-
-I came across Computer science 182 which teaches data structure. The professor was Mr. Haghoo. I was sort of iritated becuase I had to let go of my macbook and switch to a windows operating system. I dealt with the organization of data. Their usually things like linked list, recursion, pointers etc. I looked at a couple of youtube videos to get a animated version of how it looked and I gained more knowledge. 
