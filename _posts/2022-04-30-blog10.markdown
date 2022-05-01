@@ -8,4 +8,6 @@ image: /assets/images/ScreenShot8.png
 
 Here I wrote a script that dictates how much tax you owe based on your yearly income.
 
+
+
 ![]({{ page.image | relative_url }})
