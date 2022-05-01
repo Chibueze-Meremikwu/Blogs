@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Blog 11"
-date:   2021-11-9 16:10:31 -0700
-categories: jekyll update
----
-
-
-Notion is a software that helps you to take notes, add tasks, manage projects & more. Imagine a lego structure. Notion provides the building blocks and you can create your own layouts and toolkit to get work done. I'm currently in the works of building a software, so this was great for me to use. This program helps indivduals in all aspects of their life pertaining to productivity. Check the website https://www.notion.so/product
